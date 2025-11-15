@@ -1,0 +1,33 @@
+body {
+  background-color: #f5f7fb;
+  font-family: 'Inter', sans-serif;
+}
+
+.navbar {
+  background: linear-gradient(90deg, #0d47a1, #42a5f5);
+}
+
+.card-custom {
+  border: none;
+  border-radius: 14px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.07);
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f1f3f9;
+}
+
+.btn-custom {
+  background: #0d47a1;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.btn-custom:hover {
+  background: #08306b;
+}
+
+.page-title {
+  font-weight: 700;
+  color: #0d47a1;
+}
