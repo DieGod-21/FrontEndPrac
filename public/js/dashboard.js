@@ -1,5 +1,5 @@
 // URL base de tu API local o Render
-const API = "https://practicafinalweb.onrender.com/api"; 
+const API = "https://practicafinalweb.onrender.com/api/dashboard"; // ← CAMBIAR ESTO
 
 // Función para hacer peticiones
 async function fetchCount(endpoint) {

@@ -1,4 +1,4 @@
-const API = "https://TU-API.onrender.com/api";
+const API = "https://practicafinalweb.onrender.com/api/productos"; // ← CAMBIAR ESTO
 
 // ===========================
 // Cargar productos

@@ -1,4 +1,4 @@
-const API = "https://TU-API.onrender.com/api/ingredientes";
+const API = "https://practicafinalweb.onrender.com/api/ingredientes"; // ← CAMBIAR ESTO
 
 async function cargarIngredientes() {
   try {
