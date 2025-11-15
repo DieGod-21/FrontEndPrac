@@ -1,5 +1,5 @@
 // URL base de tu API local o Render
-const API = "http://localhost:3000/api";
+const API = "https://practicafinalweb.onrender.com/api"; 
 
 // Función para hacer peticiones
 async function fetchCount(endpoint) {
